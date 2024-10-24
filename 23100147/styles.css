@@ -1,0 +1,21 @@
+body{
+	background-color: gray ;
+	color: white;
+}
+header{
+	color: white;
+	text-align: center;
+}
+h1{
+	color: white;
+}
+p{
+	color: goldenrod;
+}
+button{
+	background-color: khaki;
+	color: brown;
+}
+.main-text{
+	color: white;
+}

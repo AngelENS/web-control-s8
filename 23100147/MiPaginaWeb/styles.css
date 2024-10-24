@@ -1,0 +1,31 @@
+body{
+	background-color: gray ;
+	color: white;
+}
+header{
+	color: white;
+}
+h1{
+	color: white;
+}
+p{
+	color: cyan;
+	font-size: 30px;
+}
+button{
+	background-color: khaki;
+	color: brown;
+}
+.main-text{
+	color: white;
+}
+#pe
+{color: transparent;
+font-size: 20px;
+}
+b{
+	font-size: 40px;
+}
+#pequeno{
+	font-size: 15px;
+}
