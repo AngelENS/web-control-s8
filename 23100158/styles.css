@@ -1,0 +1,26 @@
+body
+    {
+        background-color: aqua;
+        color: white;
+    }
+
+h1 
+    {
+        color :black;
+    }
+
+header
+    {
+        text-align: center;
+    }
+
+#Cambiar-color
+    {
+        background-color: blue;
+        color: beige;
+    }
+main
+{
+    color: brown;
+}
+ 
